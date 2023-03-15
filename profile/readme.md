@@ -15,7 +15,6 @@ You can find samples for Dynamsoft's SDKs here.
 
 ### Document Scanning
 
-* Vanilla JS
 * [Vue](https://github.com/dynamsoft/web-twain-vue-advanced)
 * [React Advanced](https://github.com/Dynamsoft/dwt-react-advanced)
 * [Angular Advanced](https://github.com/Dynamsoft/dwt-angular-advanced)
