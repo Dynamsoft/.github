@@ -4,7 +4,7 @@
 You can find samples for Dynamsoft's SDKs here.
 
 
-### Document Scanning
+### Document Scanning with Dynamic Web TWAIN
 
 * [Vue](https://github.com/dynamsoft/web-twain-vue-advanced)
 * [React Advanced](https://github.com/Dynamsoft/dwt-react-advanced)
