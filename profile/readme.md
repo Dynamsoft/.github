@@ -19,14 +19,14 @@ You can find samples for Dynamsoft's SDKs here.
 |    | [Flutter](https://github.com/Dynamsoft/capture-vision-flutter-samples)         |  [Java](https://github.com/Dynamsoft/barcode-reader-java-samples)             |
 |    | [Xamarin](https://github.com/Dynamsoft/capture-vision-xamarin-forms-samples)      |  [C/C++](https://github.com/Dynamsoft/barcode-reader-c-cpp-samples)
 |    | [Cordova](https://github.com/Dynamsoft/capture-vision-cordova-samples)  |  |
-|    | [MAUI](https://github.com/Dynamsoft/capture-vision-maui-samples)  |  |  
+|    | [MAUI](https://github.com/Dynamsoft/barcode-reader-maui-samples)  |  |  
 
 
 
 ### MRZ Scanner
 | Web      | Mobile         | Desktop/Server |
 | ----------- | ----------- | -------------- |
-| [JavaScript](https://github.com/Dynamsoft/mrz-scanner-javascript) | [Android](https://github.com/Dynamsoft/mrz-scanner-mobile/tree/main/android/MRZScanner) / [iOS](https://github.com/Dynamsoft/mrz-scanner-mobile/tree/main/ios/MRZScanner) | [Python](https://github.com/Dynamsoft/capture-vision-python-samples/blob/main/Samples/mrz_scanner.py) / [.Net](https://github.com/Dynamsoft/capture-vision-dotnet-samples/tree/main/Samples/MRZScanner) / [C++](https://github.com/Dynamsoft/capture-vision-cpp-samples/tree/main/Samples/MRZScanner) |
+| [JavaScript](https://github.com/Dynamsoft/mrz-scanner-javascript) | [Android](https://github.com/Dynamsoft/mrz-scanner-mobile/tree/main/android/MRZScanner) / [iOS](https://github.com/Dynamsoft/mrz-scanner-mobile/tree/main/ios/MRZScanner) / [MAUI](https://github.com/Dynamsoft/mrz-scanner-mobile-maui) | [Python](https://github.com/Dynamsoft/capture-vision-python-samples/blob/main/Samples/mrz_scanner.py) / [.Net](https://github.com/Dynamsoft/capture-vision-dotnet-samples/tree/main/Samples/MRZScanner) / [C++](https://github.com/Dynamsoft/capture-vision-cpp-samples/tree/main/Samples/MRZScanner) |
 
 ### Driver License Scanner
 | Web      | Mobile         | Desktop/Server |
@@ -41,6 +41,6 @@ You can find samples for Dynamsoft's SDKs here.
 ### Document Normalizer
 | Web      | Mobile         | Desktop/Server |
 | ----------- | ----------- | -------------- |
-| [JavaScript](https://github.com/Dynamsoft/document-normalizer-javascript-samples/tree/main) | [Android](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/Android/DocumentScanner) / [iOS](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/ios/DocumentScanner) | [Python](https://github.com/Dynamsoft/capture-vision-python-samples/blob/main/Samples/document_scanner.py) / [.Net](https://github.com/Dynamsoft/capture-vision-dotnet-samples/tree/main/Samples/DocumentScanner) / [C++](https://github.com/Dynamsoft/capture-vision-cpp-samples/tree/main/Samples/DocumentScanner) |
+| [JavaScript](https://github.com/Dynamsoft/document-normalizer-javascript-samples/tree/main) | [Android](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/Android/DocumentScanner) / [iOS](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/ios/DocumentScanner) / [MAUI](https://github.com/Dynamsoft/capture-vision-maui-samples/tree/main/DocumentScanner) | [Python](https://github.com/Dynamsoft/capture-vision-python-samples/blob/main/Samples/document_scanner.py) / [.Net](https://github.com/Dynamsoft/capture-vision-dotnet-samples/tree/main/Samples/DocumentScanner) / [C++](https://github.com/Dynamsoft/capture-vision-cpp-samples/tree/main/Samples/DocumentScanner) |
 
 
