@@ -38,9 +38,9 @@ You can find samples for Dynamsoft's SDKs here.
 | ----------- | ----------- | -------------- |
 | [JavaScript](https://github.com/Dynamsoft/capture-vision-javascript-samples/tree/main/VINScanner) | [Android](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/Android/VINScanner) / [iOS](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/ios/VINScanner) | [Python](https://github.com/Dynamsoft/capture-vision-python-samples/blob/main/Samples/vin_scanner.py) / [.Net](https://github.com/Dynamsoft/capture-vision-dotnet-samples/tree/main/Samples/VINScanner) / [C++](https://github.com/Dynamsoft/capture-vision-cpp-samples/tree/main/Samples/VINScanner) |
 
-### Document Normalizer
+### Document Scanner
 | Web      | Mobile         | Desktop/Server |
 | ----------- | ----------- | -------------- |
-| [JavaScript](https://github.com/Dynamsoft/document-normalizer-javascript-samples/tree/main) | [Android](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/Android/DocumentScanner) / [iOS](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/ios/DocumentScanner) / [MAUI](https://github.com/Dynamsoft/capture-vision-maui-samples/tree/main/DocumentScanner) | [Python](https://github.com/Dynamsoft/capture-vision-python-samples/blob/main/Samples/document_scanner.py) / [.Net](https://github.com/Dynamsoft/capture-vision-dotnet-samples/tree/main/Samples/DocumentScanner) / [C++](https://github.com/Dynamsoft/capture-vision-cpp-samples/tree/main/Samples/DocumentScanner) |
+| [JavaScript](https://github.com/Dynamsoft/mobile-web-capture) | [Android](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/Android/DocumentScanner) / [iOS](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/ios/DocumentScanner) / [MAUI](https://github.com/Dynamsoft/capture-vision-maui-samples/tree/main/DocumentScanner) | [Python](https://github.com/Dynamsoft/capture-vision-python-samples/blob/main/Samples/document_scanner.py) / [.Net](https://github.com/Dynamsoft/capture-vision-dotnet-samples/tree/main/Samples/DocumentScanner) / [C++](https://github.com/Dynamsoft/capture-vision-cpp-samples/tree/main/Samples/DocumentScanner) |
 
 
