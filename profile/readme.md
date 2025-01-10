@@ -26,7 +26,7 @@ You can find samples for Dynamsoft's SDKs here.
 ### MRZ Scanner
 | Web      | Mobile         | Desktop/Server |
 | ----------- | ----------- | -------------- |
-| [JavaScript](https://github.com/Dynamsoft/mrz-scanner-javascript) | [Android](https://github.com/Dynamsoft/mrz-scanner-mobile/tree/main/android/MRZScanner) / [iOS](https://github.com/Dynamsoft/mrz-scanner-mobile/tree/main/ios/MRZScanner) / [MAUI](https://github.com/Dynamsoft/mrz-scanner-mobile-maui) | [Python](https://github.com/Dynamsoft/capture-vision-python-samples/blob/main/Samples/mrz_scanner.py) / [.Net](https://github.com/Dynamsoft/capture-vision-dotnet-samples/tree/main/Samples/MRZScanner) / [C++](https://github.com/Dynamsoft/capture-vision-cpp-samples/tree/main/Samples/MRZScanner) |
+| [JavaScript](https://github.com/Dynamsoft/mrz-scanner-javascript) | [Android](https://github.com/Dynamsoft/mrz-scanner-mobile/tree/main/android/samples/ScanMRZ) / [iOS](https://github.com/Dynamsoft/mrz-scanner-mobile/tree/main/ios/samples/ScanMRZ) / [MAUI](https://github.com/Dynamsoft/mrz-scanner-mobile-maui) | [Python](https://github.com/Dynamsoft/capture-vision-python-samples/blob/main/Samples/mrz_scanner.py) / [.Net](https://github.com/Dynamsoft/capture-vision-dotnet-samples/tree/main/Samples/MRZScanner) / [C++](https://github.com/Dynamsoft/capture-vision-cpp-samples/tree/main/Samples/MRZScanner) |
 
 ### Driver License Scanner
 | Web      | Mobile         | Desktop/Server |
