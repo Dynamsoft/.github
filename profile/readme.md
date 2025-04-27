@@ -14,11 +14,11 @@ You can find samples for Dynamsoft's SDKs here.
 ### Barcode Reading
 | Web      | Mobile         | Desktop/Server |
 | ----------- | ----------- |-----------    |
-| [JavaScript](https://github.com/Dynamsoft/barcode-reader-javascript-samples)      | [Android & iOS](https://github.com/Dynamsoft/barcode-reader-mobile-samples)       |  [.Net](https://github.com/Dynamsoft/barcode-reader-dotnet-samples)             |
+| [JavaScript](https://github.com/Dynamsoft/barcode-reader-javascript)      | [Android & iOS](https://github.com/Dynamsoft/barcode-reader-mobile-samples)       |  [.Net](https://github.com/Dynamsoft/barcode-reader-dotnet-samples)             |
 |    | [React Native](https://github.com/Dynamsoft/capture-vision-react-native-samples)        |   [Python](https://github.com/Dynamsoft/barcode-reader-python-samples)             |
 |    | [Flutter](https://github.com/Dynamsoft/capture-vision-flutter-samples)         |  [Java](https://github.com/Dynamsoft/barcode-reader-java-samples)             |
 |    | [Xamarin](https://github.com/Dynamsoft/capture-vision-xamarin-forms-samples)      |  [C/C++](https://github.com/Dynamsoft/barcode-reader-c-cpp-samples)
-|    | [Cordova](https://github.com/Dynamsoft/capture-vision-cordova-samples)  |  |
+|    | [Cordova](https://github.com/Dynamsoft/capture-vision-cordova-samples)  |[Node.js](https://github.com/Dynamsoft/capture-vision-nodejs-samples)  |
 |    | [MAUI](https://github.com/Dynamsoft/barcode-reader-maui-samples)  |  |  
 
 
@@ -41,6 +41,6 @@ You can find samples for Dynamsoft's SDKs here.
 ### Document Normalizer
 | Web      | Mobile         | Desktop/Server |
 | ----------- | ----------- | -------------- |
-| [JavaScript](https://github.com/Dynamsoft/document-normalizer-javascript-samples/tree/main) | [Android](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/Android/DocumentScanner) / [iOS](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/ios/DocumentScanner) / [MAUI](https://github.com/Dynamsoft/capture-vision-maui-samples/tree/main/DocumentScanner) | [Python](https://github.com/Dynamsoft/capture-vision-python-samples/blob/main/Samples/document_scanner.py) / [.Net](https://github.com/Dynamsoft/capture-vision-dotnet-samples/tree/main/Samples/DocumentScanner) / [C++](https://github.com/Dynamsoft/capture-vision-cpp-samples/tree/main/Samples/DocumentScanner) |
+| [JavaScript](https://github.com/Dynamsoft/document-scanner-javascript) | [Android](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/Android/DocumentScanner) / [iOS](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/ios/DocumentScanner) / [MAUI](https://github.com/Dynamsoft/capture-vision-maui-samples/tree/main/DocumentScanner) | [Python](https://github.com/Dynamsoft/capture-vision-python-samples/blob/main/Samples/document_scanner.py) / [.Net](https://github.com/Dynamsoft/capture-vision-dotnet-samples/tree/main/Samples/DocumentScanner) / [C++](https://github.com/Dynamsoft/capture-vision-cpp-samples/tree/main/Samples/DocumentScanner) |
 
 
