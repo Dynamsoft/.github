@@ -36,7 +36,7 @@ You can find samples for Dynamsoft's SDKs here.
 ### VIN Scanner
 | Web      | Mobile         | Desktop/Server |
 | ----------- | ----------- | -------------- |
-| [JavaScript](https://github.com/Dynamsoft/capture-vision-javascript-samples/tree/main/VINScanner) | [Android](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/Android/VINScanner) / [iOS](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/ios/VINScanner) [MAUI](https://github.com/Dynamsoft/capture-vision-maui-samples/tree/main/VINScanner) | [Python](https://github.com/Dynamsoft/capture-vision-python-samples/blob/main/Samples/vin_scanner.py) / [.Net](https://github.com/Dynamsoft/capture-vision-dotnet-samples/tree/main/Samples/VINScanner) / [C++](https://github.com/Dynamsoft/capture-vision-cpp-samples/tree/main/Samples/VINScanner) |
+| [JavaScript](https://github.com/Dynamsoft/capture-vision-javascript-samples/tree/main/VINScanner) | [Android](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/Android/VINScanner) / [iOS](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/ios/VINScanner) / [MAUI](https://github.com/Dynamsoft/capture-vision-maui-samples/tree/main/VINScanner) | [Python](https://github.com/Dynamsoft/capture-vision-python-samples/blob/main/Samples/vin_scanner.py) / [.Net](https://github.com/Dynamsoft/capture-vision-dotnet-samples/tree/main/Samples/VINScanner) / [C++](https://github.com/Dynamsoft/capture-vision-cpp-samples/tree/main/Samples/VINScanner) |
 
 ### Document Scanner
 | Web      | Mobile         | Desktop/Server |
