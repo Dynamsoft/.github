@@ -6,12 +6,12 @@ This repository hub showcases sample projects tailored to various use cases supp
 
 Explore the examples by use case and select your preferred programming language or framework. Can't find what you're looking for? [Contact us](https://www.dynamsoft.com/contact/?utm_source=githubHOME) — we’re happy to help!
 
-- Use Case 1: [Document Scanning](#1-document-scanning)
-- Use Case 2: [Barcode Reading](#2-barcode-reading)
-- Use Case 3: [Batch Barcode Scanning](#3-batch-barcode-scanning)
-- Use Case 4: [MRZ Scanning](#4-mrz-scanning)
-- Use Case 5: [Driver License Scanning](#5-driver-license-scanning)
-- Use Case 6: [VIN Scanning](#6-vin-scanning)
+- Use Case 1: [Document Scanning](#1--document-scanning)
+- Use Case 2: [Barcode Reading](#2--barcode-reading)
+- Use Case 3: [Batch Barcode Scanning](#3--batch-barcode-scanning)
+- Use Case 4: [MRZ Scanning](#4--mrz-scanning)
+- Use Case 5: [Driver License Scanning](#5--driver-license-scanning)
+- Use Case 6: [VIN Scanning](#6--vin-scanning)
 
 ---
 
@@ -132,7 +132,7 @@ Explore the examples by use case and select your preferred programming language 
 
 ---
 
-## 3 Batch Barcode Scanning
+## 3. Batch Barcode Scanning
 
 - **iOS Batch Barcode Scanner Demo Video**  
   <a href="https://www.youtube.com/watch?v=iyFv0Xgr8_Y">
