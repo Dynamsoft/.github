@@ -23,10 +23,11 @@ Explore the examples by use case and select your preferred programming language 
   <a href="https://www.youtube.com/watch?v=7Bo-az2okwI">
     <img src="https://img.youtube.com/vi/7Bo-az2okwI/maxresdefault.jpg" width="400" title="Cross-Platform Document Scanning Using Dynamic Web TWAIN"/>
   </a>  
-  *Click to watch the demo on YouTube.*
+  *Click to watch the demo on YouTube.*  
 - [Demo App](https://demo.dynamsoft.com/web-twain/?utm_source=githubHOME)  
 - [Getting Started Guide](https://www.dynamsoft.com/web-twain/docs/hello-world/index.html?utm_source=githubHOME)  
-- [Download 30-Day Free Trial + Vanilla JS Samples](https://www.dynamsoft.com/web-twain/downloads/?utm_source=githubHOME)  
+- [Download 30-Day Free Trial + Vanilla JS Samples](https://www.dynamsoft.com/web-twain/downloads/?utm_source=githubHOME)
+
 - Framework-Specific Samples:  
   - [Angular (Basic)](https://github.com/Dynamsoft/web-twain-angular-cli-application)  
   - [Angular (Full-Featured)](https://github.com/Dynamsoft/dwt-angular-advanced)  
@@ -100,7 +101,7 @@ Explore the examples by use case and select your preferred programming language 
   <a href="https://itunes.apple.com/us/app/barcode-scanner-x/id1120581630?mt=8">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Download_on_the_App_Store_RGB_blk.svg/330px-Download_on_the_App_Store_RGB_blk.svg.png" width="200" title="Download Dynamsoft Barcode Reader iOS Demo App"/>
   </a>
-- [iOS Getting Started Guide](https://www.dynamsoft.com/barcode-reader/docs/mobile/programming/objectivec-swift/user-guide.html?utm_source=githubHOME)  
+- [iOS Getting Started Guide](https://www.dynamsoft.com/barcode-reader/docs/mobile/programming/objectivec-swift/user-guide.html?utm_source=githubHOME)
 - [iOS Samples](https://github.com/Dynamsoft/barcode-reader-mobile-samples/tree/main/ios)
   
 - **Android Tutorial Video**  
@@ -109,25 +110,25 @@ Explore the examples by use case and select your preferred programming language 
   </a>  
   *Click to watch the demo on YouTube.*
   
-- **Android Demo App**
+- **Android Demo App**  
   [Download APK](https://download2.dynamsoft.com/dbr/android/DynamsoftBarcodeReaderDemoAndroid.apk?utm_source=githubHOME) Or  
   <a href="https://play.google.com/store/apps/details?id=com.dynamsoft.demo.dynamsoftbarcodereaderdemo">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="200" title="Download Dynamsoft Barcode Reader Android Demo App"/>
   </a>
-- [Android Getting Started Guide](https://www.dynamsoft.com/barcode-reader/docs/mobile/programming/android/user-guide.html?utm_source=githubHOME)  
+- [Android Getting Started Guide](https://www.dynamsoft.com/barcode-reader/docs/mobile/programming/android/user-guide.html?utm_source=githubHOME)
 - [Android Samples](https://github.com/Dynamsoft/barcode-reader-mobile-samples/tree/main/android)
 
 - Cross-Platform Frameworks:  
-  - [.NET MAUI Samples](https://github.com/Dynamsoft/barcode-reader-maui-samples)  
-  - [React Native Samples](https://github.com/Dynamsoft/capture-vision-react-native-samples/tree/main/ScanBarcodes)  
+  - [.NET MAUI Samples](https://github.com/Dynamsoft/barcode-reader-maui-samples)
+  - [React Native Samples](https://github.com/Dynamsoft/capture-vision-react-native-samples/tree/main/ScanBarcodes)
   - [Flutter Samples](https://github.com/Dynamsoft/capture-vision-flutter-samples/tree/main/barcode_reader_simple_sample)
 
 ### 2.2. Static Image Barcode Reading (Server/Desktop)
 
-- [Python Samples](https://github.com/Dynamsoft/barcode-reader-python-samples)  
-- [.NET Samples](https://github.com/Dynamsoft/barcode-reader-dotnet-samples)  
-- [Java Samples](https://github.com/Dynamsoft/barcode-reader-java-samples)  
-- [C/C++ Samples](https://github.com/Dynamsoft/barcode-reader-c-cpp-samples)  
+- [Python Samples](https://github.com/Dynamsoft/barcode-reader-python-samples)
+- [.NET Samples](https://github.com/Dynamsoft/barcode-reader-dotnet-samples)
+- [Java Samples](https://github.com/Dynamsoft/barcode-reader-java-samples)
+- [C/C++ Samples](https://github.com/Dynamsoft/barcode-reader-c-cpp-samples)
 - [Node.js Samples](https://github.com/Dynamsoft/capture-vision-nodejs-samples)
 
 ---
@@ -156,26 +157,23 @@ Explore the examples by use case and select your preferred programming language 
 
 #### 4.1.1. Web Applications
 
-- [Getting Started Guide](https://www.dynamsoft.com/mrz-scanner/docs/web/guides/mrz-scanner.html?utm_source=githubHOME)  
+- [Getting Started Guide](https://www.dynamsoft.com/mrz-scanner/docs/web/guides/mrz-scanner.html?utm_source=githubHOME)
 - [Sample Project](https://github.com/Dynamsoft/mrz-scanner-javascript)
 
 #### 4.1.2. Mobile Applications
 
-- [Android Getting Started Guide](https://www.dynamsoft.com/mrz-scanner/docs/mobile/programming/android/user-guide/index.html?utm_source=githubHOME)  
+- [Android Getting Started Guide](https://www.dynamsoft.com/mrz-scanner/docs/mobile/programming/android/user-guide/index.html?utm_source=githubHOME)
 - [Android Sample Project](https://github.com/Dynamsoft/mrz-scanner-mobile/tree/main/android)
-
 - [iOS Getting Started Guide](https://www.dynamsoft.com/mrz-scanner/docs/mobile/programming/ios/user-guide/index.html?utm_source=githubHOME)
 - [iOS Sample Project](https://github.com/Dynamsoft/mrz-scanner-mobile/tree/main/ios)
-
 - [MAUI Getting Started Guide](https://www.dynamsoft.com/capture-vision/docs/mobile/programming/maui/user-guide/mrz.html?utm_source=githubHOME)
 - [MAUI Sample Project](https://github.com/Dynamsoft/mrz-scanner-mobile-maui)
-  
 - [React Native Sample Project](https://github.com/Dynamsoft/capture-vision-react-native-samples/tree/main/ScanMRZ)
 
 ### 4.2. Scanning Static Images (Server/Desktop)
 
-- [Python Sample Project](https://github.com/Dynamsoft/capture-vision-python-samples/blob/main/Samples/mrz_scanner.py)  
-- [.NET Sample Project](https://github.com/Dynamsoft/capture-vision-dotnet-samples/tree/main/Samples/MRZScanner)  
+- [Python Sample Project](https://github.com/Dynamsoft/capture-vision-python-samples/blob/main/Samples/mrz_scanner.py)
+- [.NET Sample Project](https://github.com/Dynamsoft/capture-vision-dotnet-samples/tree/main/Samples/MRZScanner)
 - [C++ Sample Project](https://github.com/Dynamsoft/capture-vision-cpp-samples/tree/main/Samples/MRZScanner)
 
 ---
