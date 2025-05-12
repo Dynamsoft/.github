@@ -132,7 +132,7 @@ Explore the examples by use case and select your preferred programming language 
 
 ---
 
-## 3. Batch Barcode Scanning
+## 3. 📦 Batch Barcode Scanning
 
 - **iOS Batch Barcode Scanner Demo Video**  
   <a href="https://www.youtube.com/watch?v=iyFv0Xgr8_Y">
