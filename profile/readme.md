@@ -183,8 +183,8 @@ Explore the examples by use case and select your preferred programming language 
 
 #### 5.1.2. Mobile Applications
 
-- [Android Sample Project](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/Android/DriversLicenseScanner)  
-- [iOS Sample Project](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/ios/DriversLicenseScanner)  
+- [Android Sample Project](https://github.com/Dynamsoft/barcode-reader-mobile-samples/tree/main/android/FoundationalAPISamples/DriversLicenseScanner)  
+- [iOS Sample Project](https://github.com/Dynamsoft/barcode-reader-mobile-samples/tree/main/ios/FoundationalAPISamples/DriversLicenseScanner)  
 - [React Native Sample Project](https://github.com/Dynamsoft/capture-vision-react-native-samples/tree/main/ReadDriverLicense)
 
 ### 5.2. Static Image Scanning (Server/Desktop)
