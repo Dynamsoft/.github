@@ -26,13 +26,8 @@ Explore the examples by use case and select your preferred programming language 
   *Click to watch the demo on YouTube.*  
 - [Demo App](https://demo.dynamsoft.com/web-twain/?utm_source=githubHOME)  
 - [Getting Started Guide](https://www.dynamsoft.com/web-twain/docs/hello-world/index.html?utm_source=githubHOME)  
-- [Download 30-Day Free Trial + Vanilla JS Samples](https://www.dynamsoft.com/web-twain/downloads/?utm_source=githubHOME)
-
-- Framework-Specific Samples:  
-  - [Angular (Basic)](https://github.com/Dynamsoft/web-twain-angular-cli-application)  
-  - [Angular (Full-Featured)](https://github.com/Dynamsoft/dwt-angular-advanced)  
-  - [React (Full-Featured)](https://github.com/Dynamsoft/dwt-react-advanced)  
-  - [Vue (Full-Featured)](https://github.com/Dynamsoft/web-twain-vue-advanced)
+- [Download 30-Day Free Trial](https://www.dynamsoft.com/web-twain/downloads/?utm_source=githubHOME)
+- [Samples](https://github.com/dynamsoft/web-twain-samples)
 
 ### 1.2. Using a Webcam or Mobile Camera
 
