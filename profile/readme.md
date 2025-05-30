@@ -207,7 +207,7 @@ Explore the examples by use case and select your preferred programming language 
 
 - [Android Sample Project](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/Android/VINScanner)  
 - [iOS Sample Project](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/ios/VINScanner)  
-- [MAUI Sample Project](https://github.com/Dynamsoft/capture-vision-maui-samples/tree/main/VINScanner)
+- [MAUI Sample Project](https://github.com/Dynamsoft/capture-vision-maui-samples/tree/main/ScanVIN)
 
 ### 6.2. Static Image Scanning (Server/Desktop)
 
