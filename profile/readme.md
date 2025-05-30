@@ -57,8 +57,8 @@ Explore the examples by use case and select your preferred programming language 
 
 #### 1.2.2. Mobile Applications
 
-- [Android Sample Project](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/Android/ScanDocument)  
-- [iOS Sample Project](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/ios/ScanDocument)  
+- [Android Sample Project](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/Android/DocumentScanner)  
+- [iOS Sample Project](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/ios/DocumentScanner)  
 - [MAUI Sample Project](https://github.com/Dynamsoft/capture-vision-maui-samples/tree/main/ScanDocument)  
 - [React Native Sample Project](https://github.com/Dynamsoft/capture-vision-react-native-samples/tree/main/DetectAndDeskewDocument)
 
