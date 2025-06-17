@@ -60,7 +60,7 @@ Explore the examples by use case and select your preferred programming language 
 - [Android Sample Project](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/Android/DocumentScanner)  
 - [iOS Sample Project](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/ios/DocumentScanner)  
 - [MAUI Sample Project](https://github.com/Dynamsoft/capture-vision-maui-samples/tree/main/ScanDocument)  
-- [React Native Sample Project](https://github.com/Dynamsoft/capture-vision-react-native-samples/tree/main/DetectAndDeskewDocument)
+- [React Native Sample Project](https://github.com/Dynamsoft/capture-vision-react-native-samples/tree/main/ScanDocument)
 
 ### 1.3. Scanning Static Images in Server/Desktop Apps
 
@@ -115,7 +115,7 @@ Explore the examples by use case and select your preferred programming language 
 
 - Cross-Platform Frameworks:  
   - [.NET MAUI Samples](https://github.com/Dynamsoft/barcode-reader-maui-samples)
-  - [React Native Samples](https://github.com/Dynamsoft/capture-vision-react-native-samples/tree/main/ScanBarcodes)
+  - [React Native Samples](https://github.com/Dynamsoft/barcode-reader-react-native-samples)
   - [Flutter Samples](https://github.com/Dynamsoft/capture-vision-flutter-samples/tree/main/barcode_reader_simple_sample)
 
 ### 2.2. Static Image Barcode Reading (Server/Desktop)
@@ -185,7 +185,7 @@ Explore the examples by use case and select your preferred programming language 
 
 - [Android Sample Project](https://github.com/Dynamsoft/barcode-reader-mobile-samples/tree/main/android/FoundationalAPISamples/DriversLicenseScanner)  
 - [iOS Sample Project](https://github.com/Dynamsoft/barcode-reader-mobile-samples/tree/main/ios/FoundationalAPISamples/DriversLicenseScanner)  
-- [React Native Sample Project](https://github.com/Dynamsoft/capture-vision-react-native-samples/tree/main/ReadDriverLicense)
+- [React Native Sample Project](https://github.com/Dynamsoft/barcode-reader-react-native-samples/tree/main/ScanDriversLicense)
 
 ### 5.2. Static Image Scanning (Server/Desktop)
 
@@ -208,6 +208,7 @@ Explore the examples by use case and select your preferred programming language 
 - [Android Sample Project](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/Android/VINScanner)  
 - [iOS Sample Project](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/ios/VINScanner)  
 - [MAUI Sample Project](https://github.com/Dynamsoft/capture-vision-maui-samples/tree/main/ScanVIN)
+- [React Native Sample Project](https://github.com/Dynamsoft/capture-vision-react-native-samples/tree/main/ScanVIN)
 
 ### 6.2. Static Image Scanning (Server/Desktop)
 
