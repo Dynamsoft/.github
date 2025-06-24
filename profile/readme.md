@@ -77,8 +77,8 @@ Explore the examples by use case and select your preferred programming language 
 #### 2.1.1. Web Applications
 
 - **Barcode Scanner JS Tutorial Video**  
-  <a href="https://www.youtube.com/watch?v=MzMRdivmuIM">
-    <img src="https://img.youtube.com/vi/MzMRdivmuIM/maxresdefault.jpg" width="400" title="Scan Barcodes Using Barcode Scanner JS"/>
+  <a href="https://www.youtube.com/watch?v=BUom-rXM1ig">
+    <img src="https://img.youtube.com/vi/BUom-rXM1ig/maxresdefault.jpg" width="400" title="Scan Barcodes Using Barcode Scanner JS"/>
   </a>  
   *Click to watch the demo on YouTube.*
 - [Demo App](https://demo.dynamsoft.com/barcode-reader-js/?utm_source=githubHOME)  
@@ -143,8 +143,8 @@ Explore the examples by use case and select your preferred programming language 
 ## 4. 🛂 MRZ Scanning
 
 **MRZ Scanner Demo Video**  
-<a href="https://www.youtube.com/watch?v=i-jw58ic5R8">
-  <img src="https://img.youtube.com/vi/i-jw58ic5R8/maxresdefault.jpg" width="400" title="Scan MRZ Using Dynamsoft MRZ Scanner"/>
+<a href="https://www.youtube.com/watch?v=lWAANXv_g3U">
+  <img src="https://img.youtube.com/vi/lWAANXv_g3U/maxresdefault.jpg" width="400" title="Scan MRZ Using Dynamsoft MRZ Scanner"/>
 </a>  
 *Click to watch the demo on YouTube.*
 
