@@ -144,7 +144,7 @@ Explore the examples by use case and select your preferred programming language 
 
 **MRZ Scanner Demo Video**  
 <a href="https://www.youtube.com/watch?v=lWAANXv_g3U">
-  <img src="https://img.youtube.com/vi/lWAANXv_g3U/maxresdefault.jpg" width="400" title="Scan MRZ Using Dynamsoft MRZ Scanner"/>
+  <img src="https://img.youtube.com/vi/lWAANXv_g3U/sddefault.jpg" width="400" title="Scan MRZ Using Dynamsoft MRZ Scanner"/>
 </a>  
 *Click to watch the demo on YouTube.*
 
