@@ -70,6 +70,7 @@ Explore the examples by use case and select your preferred programming language 
 
 ---
 
+<a id="barcode-reading"></a>
 ## 2. 📦 Barcode Reading
 
 ### 2.1. Using a Webcam or Mobile Camera
