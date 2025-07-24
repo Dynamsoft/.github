@@ -132,8 +132,8 @@ Explore the examples by use case and select your preferred programming language 
 ## 3. 📦 Batch Barcode Scanning
 
 - **iOS Batch Barcode Scanner Demo Video**  
-  <a href="https://www.youtube.com/watch?v=iyFv0Xgr8_Y">
-    <img src="https://img.youtube.com/vi/iyFv0Xgr8_Y/maxresdefault.jpg" width="400" title="Scan Barcodes Using Batch Barcode Scanner iOS Edition"/>
+  <a href="https://www.youtube.com/watch?v=L-AQtpTePxI">
+    <img src="https://img.youtube.com/vi/L-AQtpTePxI/maxresdefault.jpg" width="400" title="Scan Barcodes Using Batch Barcode Scanner iOS Edition"/>
   </a>  
   *Click to watch the demo on YouTube.*
 
