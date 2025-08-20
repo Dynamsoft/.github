@@ -67,6 +67,7 @@ Explore the examples by use case and select your preferred programming language 
 - [Python Sample Project](https://github.com/Dynamsoft/capture-vision-python-samples/blob/main/Samples/document_scanner.py)  
 - [.NET Sample Project](https://github.com/Dynamsoft/capture-vision-dotnet-samples/tree/main/Samples/DocumentScanner)  
 - [C++ Sample Project](https://github.com/Dynamsoft/capture-vision-cpp-samples/tree/main/Samples/DocumentScanner)
+- [Java Sample Project](https://github.com/Dynamsoft/capture-vision-java-samples/tree/main/Samples/DocumentScanner)
 
 ---
 
@@ -171,6 +172,7 @@ Explore the examples by use case and select your preferred programming language 
 - [Python Sample Project](https://github.com/Dynamsoft/capture-vision-python-samples/blob/main/Samples/mrz_scanner.py)
 - [.NET Sample Project](https://github.com/Dynamsoft/capture-vision-dotnet-samples/tree/main/Samples/MRZScanner)
 - [C++ Sample Project](https://github.com/Dynamsoft/capture-vision-cpp-samples/tree/main/Samples/MRZScanner)
+- [Java Sample Project](https://github.com/Dynamsoft/capture-vision-java-samples/tree/main/Samples/MRZScanner)
 
 ---
 
@@ -193,6 +195,7 @@ Explore the examples by use case and select your preferred programming language 
 - [Python Sample Project](https://github.com/Dynamsoft/capture-vision-python-samples/blob/main/Samples/driver_license_scanner.py)  
 - [.NET Sample Project](https://github.com/Dynamsoft/capture-vision-dotnet-samples/tree/main/Samples/DriverLicenseScanner)  
 - [C++ Sample Project](https://github.com/Dynamsoft/capture-vision-cpp-samples/tree/main/Samples/DriverLicenseScanner)
+- [Java Sample Project](https://github.com/Dynamsoft/capture-vision-java-samples/tree/main/Samples/DriverLicenseScanner)
 
 ---
 
@@ -216,3 +219,4 @@ Explore the examples by use case and select your preferred programming language 
 - [Python Sample Project](https://github.com/Dynamsoft/capture-vision-python-samples/blob/main/Samples/vin_scanner.py)  
 - [.NET Sample Project](https://github.com/Dynamsoft/capture-vision-dotnet-samples/tree/main/Samples/VINScanner)  
 - [C++ Sample Project](https://github.com/Dynamsoft/capture-vision-cpp-samples/tree/main/Samples/VINScanner)
+- [Java Sample Project](https://github.com/Dynamsoft/capture-vision-java-samples/tree/main/Samples/VINScanner)
