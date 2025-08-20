@@ -67,6 +67,7 @@ Explore the examples by use case and select your preferred programming language 
 - [Python Sample Project](https://github.com/Dynamsoft/capture-vision-python-samples/blob/main/Samples/document_scanner.py)  
 - [.NET Sample Project](https://github.com/Dynamsoft/capture-vision-dotnet-samples/tree/main/Samples/DocumentScanner)  
 - [C++ Sample Project](https://github.com/Dynamsoft/capture-vision-cpp-samples/tree/main/Samples/DocumentScanner)
+- [Java Sample Project](https://github.com/Dynamsoft/capture-vision-java-samples/tree/main/Samples/DocumentScanner)
 
 ---
 
@@ -216,3 +217,4 @@ Explore the examples by use case and select your preferred programming language 
 - [Python Sample Project](https://github.com/Dynamsoft/capture-vision-python-samples/blob/main/Samples/vin_scanner.py)  
 - [.NET Sample Project](https://github.com/Dynamsoft/capture-vision-dotnet-samples/tree/main/Samples/VINScanner)  
 - [C++ Sample Project](https://github.com/Dynamsoft/capture-vision-cpp-samples/tree/main/Samples/VINScanner)
+
