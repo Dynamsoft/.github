@@ -61,6 +61,7 @@ Explore the examples by use case and select your preferred programming language 
 - [iOS Sample Project](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/ios/DocumentScanner)  
 - [MAUI Sample Project](https://github.com/Dynamsoft/capture-vision-maui-samples/tree/main/ScanDocument)  
 - [React Native Sample Project](https://github.com/Dynamsoft/capture-vision-react-native-samples/tree/main/ScanDocument)
+- [Flutter Sample Project](https://github.com/Dynamsoft/capture-vision-flutter-samples/tree/main/ScanDocument)
 
 ### 1.3. Scanning Static Images in Server/Desktop Apps
 
@@ -118,7 +119,7 @@ Explore the examples by use case and select your preferred programming language 
 - Cross-Platform Frameworks:  
   - [.NET MAUI Samples](https://github.com/Dynamsoft/barcode-reader-maui-samples)
   - [React Native Samples](https://github.com/Dynamsoft/barcode-reader-react-native-samples)
-  - [Flutter Samples](https://github.com/Dynamsoft/capture-vision-flutter-samples/tree/main/barcode_reader_simple_sample)
+  - [Flutter Samples](https://github.com/Dynamsoft/barcode-reader-flutter-samples/tree/main/)
 
 ### 2.2. Static Image Barcode Reading (Server/Desktop)
 
@@ -166,12 +167,14 @@ Explore the examples by use case and select your preferred programming language 
 - [MAUI Getting Started Guide](https://www.dynamsoft.com/capture-vision/docs/mobile/programming/maui/user-guide/mrz.html?utm_source=githubHOME)
 - [MAUI Sample Project](https://github.com/Dynamsoft/mrz-scanner-mobile-maui)
 - [React Native Sample Project](https://github.com/Dynamsoft/capture-vision-react-native-samples/tree/main/ScanMRZ)
+- [Flutter Sample Project](https://github.com/Dynamsoft/capture-vision-flutter-samples/tree/main/ScanMRZ)
 
 ### 4.2. Scanning Static Images (Server/Desktop)
 
 - [Python Sample Project](https://github.com/Dynamsoft/capture-vision-python-samples/blob/main/Samples/mrz_scanner.py)
 - [.NET Sample Project](https://github.com/Dynamsoft/capture-vision-dotnet-samples/tree/main/Samples/MRZScanner)
 - [C++ Sample Project](https://github.com/Dynamsoft/capture-vision-cpp-samples/tree/main/Samples/MRZScanner)
+- [Java Sample Project](https://github.com/Dynamsoft/capture-vision-java-samples/tree/main/Samples/MRZScanner)
 
 ---
 
@@ -188,12 +191,14 @@ Explore the examples by use case and select your preferred programming language 
 - [Android Sample Project](https://github.com/Dynamsoft/barcode-reader-mobile-samples/tree/main/android/FoundationalAPISamples/DriversLicenseScanner)  
 - [iOS Sample Project](https://github.com/Dynamsoft/barcode-reader-mobile-samples/tree/main/ios/FoundationalAPISamples/DriversLicenseScanner)  
 - [React Native Sample Project](https://github.com/Dynamsoft/barcode-reader-react-native-samples/tree/main/ScanDriversLicense)
+- [Flutter Sample Project](https://github.com/Dynamsoft/barcode-reader-flutter-samples/tree/main/ScanDriversLicense)
 
 ### 5.2. Static Image Scanning (Server/Desktop)
 
 - [Python Sample Project](https://github.com/Dynamsoft/capture-vision-python-samples/blob/main/Samples/driver_license_scanner.py)  
 - [.NET Sample Project](https://github.com/Dynamsoft/capture-vision-dotnet-samples/tree/main/Samples/DriverLicenseScanner)  
 - [C++ Sample Project](https://github.com/Dynamsoft/capture-vision-cpp-samples/tree/main/Samples/DriverLicenseScanner)
+- [Java Sample Project](https://github.com/Dynamsoft/capture-vision-java-samples/tree/main/Samples/DriverLicenseScanner)
 
 ---
 
@@ -211,10 +216,13 @@ Explore the examples by use case and select your preferred programming language 
 - [iOS Sample Project](https://github.com/Dynamsoft/capture-vision-mobile-samples/tree/main/ios/VINScanner)  
 - [MAUI Sample Project](https://github.com/Dynamsoft/capture-vision-maui-samples/tree/main/ScanVIN)
 - [React Native Sample Project](https://github.com/Dynamsoft/capture-vision-react-native-samples/tree/main/ScanVIN)
+- [Flutter Sample Project](https://github.com/Dynamsoft/capture-vision-flutter-samples/tree/main/ScanVIN)
 
 ### 6.2. Static Image Scanning (Server/Desktop)
 
 - [Python Sample Project](https://github.com/Dynamsoft/capture-vision-python-samples/blob/main/Samples/vin_scanner.py)  
 - [.NET Sample Project](https://github.com/Dynamsoft/capture-vision-dotnet-samples/tree/main/Samples/VINScanner)  
 - [C++ Sample Project](https://github.com/Dynamsoft/capture-vision-cpp-samples/tree/main/Samples/VINScanner)
+- [Java Sample Project](https://github.com/Dynamsoft/capture-vision-java-samples/tree/main/Samples/VINScanner)
+
 
