@@ -184,7 +184,7 @@ Explore the examples by use case and select your preferred programming language 
 
 #### 5.1.1. Web Applications
 
-- [JavaScript Sample Project](https://github.com/Dynamsoft/barcode-reader-javascript-samples/tree/main/foundational-api-samples/use-case/read-a-drivers-license)
+- [JavaScript Sample Project](https://github.com/Dynamsoft/barcode-reader-javascript-samples/tree/main/scenarios/read-a-drivers-license)
 
 #### 5.1.2. Mobile Applications
 
@@ -224,5 +224,6 @@ Explore the examples by use case and select your preferred programming language 
 - [.NET Sample Project](https://github.com/Dynamsoft/capture-vision-dotnet-samples/tree/main/Samples/VINScanner)  
 - [C++ Sample Project](https://github.com/Dynamsoft/capture-vision-cpp-samples/tree/main/Samples/VINScanner)
 - [Java Sample Project](https://github.com/Dynamsoft/capture-vision-java-samples/tree/main/Samples/VINScanner)
+
 
 
