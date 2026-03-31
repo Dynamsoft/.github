@@ -188,8 +188,9 @@ Explore the examples by use case and select your preferred programming language 
 
 #### 5.1.2. Mobile Applications
 
-- [Android Sample Project](https://github.com/Dynamsoft/barcode-reader-mobile-samples/tree/main/android/FoundationalAPISamples/DriversLicenseScanner)  
-- [iOS Sample Project](https://github.com/Dynamsoft/barcode-reader-mobile-samples/tree/main/ios/FoundationalAPISamples/DriversLicenseScanner)  
+- [Android Sample Project](https://github.com/Dynamsoft/barcode-reader-mobile-samples/tree/main/android/FoundationalAPISamples/ReadDriversLicense)  
+- [iOS Sample Project](https://github.com/Dynamsoft/barcode-reader-mobile-samples/tree/main/ios/FoundationalAPISamples/ReadDriversLicense)  
+- [MAUI Sample Project](https://github.com/Dynamsoft/barcode-reader-maui-samples/tree/main/ScanDriversLicense)
 - [React Native Sample Project](https://github.com/Dynamsoft/barcode-reader-react-native-samples/tree/main/ScanDriversLicense)
 - [Flutter Sample Project](https://github.com/Dynamsoft/barcode-reader-flutter-samples/tree/main/ScanDriversLicense)
 
