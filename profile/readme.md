@@ -162,9 +162,9 @@ Explore the examples by use case and select your preferred programming language 
 - [iOS Getting Started Guide](https://www.dynamsoft.com/mrz-scanner/docs/mobile/programming/ios/user-guide/index.html?utm_source=githubHOME)
 - [iOS Sample Project](https://github.com/Dynamsoft/mrz-scanner-mobile/tree/main/ios)
 - [Flutter Getting Started Guide](https://www.dynamsoft.com/mrz-scanner/docs/mobile/programming/flutter/user-guide/index.html?utm_source=githubHOME)
-- [Flutter Sample Project](https://github.com/Dynamsoft/capture-vision-flutter-samples/tree/main/ScanMRZ)
+- [Flutter Sample Project](https://github.com/Dynamsoft/mrz-scanner-mobile-flutter)
 - [React Native Getting Started Guide](https://www.dynamsoft.com/mrz-scanner/docs/mobile/programming/react-native/user-guide/index.html?utm_source=githubHOME)
-- [React Native Sample Project](https://github.com/Dynamsoft/capture-vision-react-native-samples/tree/main/ScanMRZ)
+- [React Native Sample Project](https://github.com/Dynamsoft/mrz-scanner-mobile-react-native)
 - [MAUI Getting Started Guide](https://www.dynamsoft.com/mrz-scanner/docs/mobile/programming/maui/user-guide/index.html?utm_source=githubHOME)
 - [MAUI Sample Project](https://github.com/Dynamsoft/mrz-scanner-mobile-maui)
 
