@@ -10,6 +10,7 @@ Explore the examples by use case and select your preferred programming language 
 2. [Barcode Reading](#2--barcode-reading)
 3. [Batch Barcode Scanning](#3--batch-barcode-scanning)
 4. [MRZ Scanning](#4--mrz-scanning)
+5. [Driver License Scanning](#5--driver-license-scanning)
 
 ---
 
@@ -36,8 +37,8 @@ Explore the examples by use case and select your preferred programming language 
     <img src="https://img.youtube.com/vi/P3YV_nYliOE/maxresdefault.jpg" width="400" title="Scan Single-Page Documents Using Document Scanner"/>
   </a>  
   *Click to watch the demo on YouTube.*
-- [Demo App](https://demo.dynamsoft.com/document-scanner/multi-page-scanner/?utm_source=githubHOME) 
-- [Getting Started Guide](https://www.dynamsoft.com/mobile-document-scanner/docs/web/guide/index.html?utm_source=githubHOME)  
+- [Demo App](https://demo.dynamsoft.com/document-scanner/multi-page-scanner/?utm_source=githubHOME)
+- [Getting Started Guide](https://www.dynamsoft.com/mobile-document-scanner/docs/web/guide/index.html?utm_source=githubHOME)
 - [Source Code & Samples](https://github.com/Dynamsoft/document-scanner-javascript)
 
 #### 1.2.2. Mobile Applications
@@ -58,6 +59,7 @@ Explore the examples by use case and select your preferred programming language 
 ---
 
 <a id="barcode-reading"></a>
+
 ## 2. 📦 Barcode Reading
 
 ### 2.1. Using a Webcam or Mobile Camera
@@ -122,11 +124,16 @@ Explore the examples by use case and select your preferred programming language 
     <img src="https://img.youtube.com/vi/L-AQtpTePxI/maxresdefault.jpg" width="400" title="Scan Barcodes Using Batch Barcode Scanner iOS Edition"/>
   </a>  
   *Click to watch the demo on YouTube.*
-- **iOS Demo App**  
+- **iOS Demo App**
   <a href="https://apps.apple.com/us/app/dynamsoft-batchbarcodescanner/id6751793075">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Download_on_the_App_Store_RGB_blk.svg/330px-Download_on_the_App_Store_RGB_blk.svg.png" width="200" title="Download Dynamsoft Barcode Reader iOS Demo App"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Download_on_the_App_Store_RGB_blk.svg/330px-Download_on_the_App_Store_RGB_blk.svg.png" width="200" title="Download Dynamsoft Batch Barcode Scanner iOS Demo App"/>
   </a>
-  
+- **Android Demo App**
+  <a href="https://play.google.com/store/apps/details?id=com.dynamsoft.bbs.app">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="200" title="Download Dynamsoft Batch Barcode Scanner Android Demo App"/>
+  </a>
+- [Android Data Receiver Sample](https://github.com/Dynamsoft/batch-barcode-scanner-samples/tree/main/android/share-receiver)
+
   Interested to learn more? [Contact us](https://www.dynamsoft.com/batch-barcode-scanning/overview/?utm_source=githubHOME#:~:text=Get%20a%20custom%20demo%20based%20on%20your%20specific%20use%20case.)
 
 ---
@@ -151,12 +158,12 @@ Explore the examples by use case and select your preferred programming language 
 
 - **iOS Demo App**  
   <a href="https://apps.apple.com/us/app/dynamsoft-mrz-scanner/id6736854735">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Download_on_the_App_Store_RGB_blk.svg/330px-Download_on_the_App_Store_RGB_blk.svg.png" width="200" title="Download Dynamsoft Barcode Reader iOS Demo App"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Download_on_the_App_Store_RGB_blk.svg/330px-Download_on_the_App_Store_RGB_blk.svg.png" width="200" title="Download Dynamsoft MRZ Scanner iOS Demo App"/>
   </a>
-- **Android Demo App**  
+- **Android Demo App**
   <a href="https://play.google.com/store/apps/details?id=com.dynamsoft.mrzscanner">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="200" title="Download Dynamsoft Barcode Reader Android Demo App"/>
-  </a>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="200" title="Download Dynamsoft MRZ Scanner Android Demo App"/>
+  </a>
 - [Android Getting Started Guide](https://www.dynamsoft.com/mrz-scanner/docs/mobile/programming/android/user-guide/index.html?utm_source=githubHOME)
 - [Android Sample Project](https://github.com/Dynamsoft/mrz-scanner-mobile/tree/main/android)
 - [iOS Getting Started Guide](https://www.dynamsoft.com/mrz-scanner/docs/mobile/programming/ios/user-guide/index.html?utm_source=githubHOME)
@@ -174,3 +181,28 @@ Explore the examples by use case and select your preferred programming language 
 - [.NET Sample Project](https://github.com/Dynamsoft/capture-vision-dotnet-samples/tree/main/Samples/MRZScanner)
 - [C++ Sample Project](https://github.com/Dynamsoft/capture-vision-cpp-samples/tree/main/Samples/MRZScanner)
 - [Java Sample Project](https://github.com/Dynamsoft/capture-vision-java-samples/tree/main/Samples/MRZScanner)
+
+---
+
+## 5. 🪪 Driver License Scanning
+
+### 5.1. Using a Webcam or Mobile Camera
+
+#### 5.1.1. Web Applications
+
+- [JavaScript Sample Project](https://github.com/Dynamsoft/barcode-reader-javascript-samples/tree/main/scenarios/read-a-drivers-license)
+
+#### 5.1.2. Mobile Applications
+
+- [Android Sample Project](https://github.com/Dynamsoft/barcode-reader-mobile-samples/tree/main/android/FoundationalAPISamples/ReadDriversLicense)
+- [iOS Sample Project](https://github.com/Dynamsoft/barcode-reader-mobile-samples/tree/main/ios/FoundationalAPISamples/ReadDriversLicense)
+- [Flutter Sample Project](https://github.com/Dynamsoft/barcode-reader-flutter-samples/tree/main/ScanDriversLicense)
+- [React Native Sample Project](https://github.com/Dynamsoft/barcode-reader-react-native-samples/tree/main/ScanDriversLicense)
+- [MAUI Sample Project](https://github.com/Dynamsoft/barcode-reader-maui-samples/tree/main/ScanDriversLicense)
+
+### 5.2. Static Image Scanning (Server/Desktop)
+
+- [Python Sample Project](https://github.com/Dynamsoft/capture-vision-python-samples/blob/main/Samples/driver_license_scanner.py)
+- [.NET Sample Project](https://github.com/Dynamsoft/capture-vision-dotnet-samples/tree/main/Samples/DriverLicenseScanner)
+- [C++ Sample Project](https://github.com/Dynamsoft/capture-vision-cpp-samples/tree/main/Samples/DriverLicenseScanner)
+- [Java Sample Project](https://github.com/Dynamsoft/capture-vision-java-samples/tree/main/Samples/DriverLicenseScanner)
