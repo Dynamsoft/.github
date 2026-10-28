@@ -6,13 +6,14 @@ This repository hub showcases sample projects tailored to various use cases supp
 
 Explore the examples by use case and select your preferred programming language or framework. Can't find what you're looking for? [Contact us](https://www.dynamsoft.com/contact/?utm_source=githubHOME) — we’re happy to help!
 
-1. [Document Scanning](#1--document-scanning)
-2. [Barcode Reading](#2--barcode-reading)
-3. [Batch Barcode Scanning](#3--batch-barcode-scanning)
-4. [MRZ Scanning](#4--mrz-scanning)
-5. [Driver License Scanning](#5--driver-license-scanning)
-
+1. [Document Scanning](#document-scanning)
+2. [Barcode Reading](#barcode-reading)
+3. [Batch Barcode Scanning](#batch-barcode-scanning)
+4. [MRZ Scanning](#mrz-scanning)
+5. [Driver License Scanning](#driver-license-scanning)
+   
 ---
+<a id="document-scanning"></a>
 
 ## 1. 📄 Document Scanning
 
@@ -116,6 +117,7 @@ Explore the examples by use case and select your preferred programming language 
 - [C/C++ Samples](https://github.com/Dynamsoft/barcode-reader-c-cpp-samples)
 
 ---
+<a id="batch-barcode-scanning"></a>
 
 ## 3. 📦 Batch Barcode Scanning
 
@@ -137,6 +139,7 @@ Explore the examples by use case and select your preferred programming language 
   Interested to learn more? [Contact us](https://www.dynamsoft.com/batch-barcode-scanning/overview/?utm_source=githubHOME#:~:text=Get%20a%20custom%20demo%20based%20on%20your%20specific%20use%20case.)
 
 ---
+<a id="mrz-scanning"></a>
 
 ## 4. 🛂 MRZ Scanning
 
@@ -183,6 +186,7 @@ Explore the examples by use case and select your preferred programming language 
 - [Java Sample Project](https://github.com/Dynamsoft/capture-vision-java-samples/tree/main/Samples/MRZScanner)
 
 ---
+<a id="driver-license-scanning"></a>
 
 ## 5. 🪪 Driver License Scanning
 
